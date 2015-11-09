@@ -9,6 +9,9 @@ MacBook (Retina, 12-inch, Early 2015) | 1.1 GHz Intel Core M | 8 GB | 3:00 | 0:1
 MacBook Pro (Retina, 15-inch, Early 2013) | 2.4 GHz Intel Core i7 | 8 GB | 0:47 | 0:10
 MacBook Pro (Retina, 15-inch, Mid 2014) | 2.2 GHz Intel Core i7 | 16 GB | 0:51 | 0:07
 iMac (HDD 1 TB, 21.5-inch, Late 2012) | 2.7 GHz Intel Core i5 | 8 GB | 4:15 | 0:33
+Mac Pro (Flash Storage, Late 2013) | 3.5 GHz 6-Core Intel Xeon E5 | 32 GB | 0:30 | 0:05
+
+
 
 Specifications
 --------------
