@@ -5,19 +5,19 @@ These are the results from running Xcode on a non-trivial open source project us
 
 🖥 |Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time |
 --- | -------------- | --- | --- | ---------------- | ---------------------- |
-💻 | MacBook </br>Retina, 12', Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12
-💻 | MacBook Air </br>13', Mid 2012, 512 SSD | 2Ghz i7 | 8 GB | 2:10 | 0:11
-💻 | MacBook Pro </br>15', Early 2011 | 2.0 GHz i7 | 8 GB | 1:00 | 0:13
-💻 | MacBook Pro </br>15', Early 2011, SSD | 2.0 GHz i7 | 8 GB | 1:01 | 0:10 
-💻 | MacBook Pro </br>Retina, 15', Mid 2012 | 2.3 GHz i7 | 16 GB | 0:46 | 0:08
-💻 | MacBook Pro </br>Retina, 15', Early 2013 | 2.4 GHz i7 | 8 GB | 0:47 | 0:10
-💻 | MacBook Pro </br>Retina, 15', Late 2013 | 2.3 GHz i7 | 16 GB | 0:53 | 0:09
-💻 | MacBook Pro </br>Retina, 15', Mid 2014 | 2.2 GHz i7 | 16 GB | 0:51 | 0:07
-💻 | MacBook Pro </br>Retina, 15', Mid 2015 | 2.8 GHz i7 | 16 GB | 0:39 | 0:07
+💻 | MacBook </br>Retina, 12", Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12
+💻 | MacBook Air </br>13", Mid 2012, 512 SSD | 2 Ghz i7 | 8 GB | 2:10 | 0:11
+💻 | MacBook Pro </br>15", Early 2011 | 2.0 GHz i7 | 8 GB | 1:00 | 0:13
+💻 | MacBook Pro </br>15" Early 2011, SSD | 2.0 GHz i7 | 8 GB | 1:01 | 0:10 
+💻 | MacBook Pro </br>Retina, 15", Mid 2012 | 2.3 GHz i7 | 16 GB | 0:46 | 0:08
+💻 | MacBook Pro </br>Retina, 15", Early 2013 | 2.4 GHz i7 | 8 GB | 0:47 | 0:10
+💻 | MacBook Pro </br>Retina, 15", Late 2013 | 2.3 GHz i7 | 16 GB | 0:53 | 0:09
+💻 | MacBook Pro </br>Retina, 15", Mid 2014 | 2.2 GHz i7 | 16 GB | 0:51 | 0:07
+💻 | MacBook Pro </br>Retina, 15", Mid 2015 | 2.8 GHz i7 | 16 GB | 0:39 | 0:07
 ![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 0:50 | 0.09
-🖥 | iMac </br>HDD 500 GB, 21.5', Mid 2010 | 3.06 GHz i3 | 12 GB | 3:59 | 0:14
-🖥 | iMac </br>HDD 1 TB, 21.5', Late 2012 | 2.7 GHz i5 | 8 GB | 4:15 | 0:33
-🖥 | iMac 5K </br>512GB Flash, 27', Late 2015 | 4.0Ghz i7 | 32 GB | 0:28 | 0:06|
+🖥 | iMac </br>HDD 500 GB, 21.5", Mid 2010 | 3.06 GHz i3 | 12 GB | 3:59 | 0:14
+🖥 | iMac </br>HDD 1 TB, 21.5", Late 2012 | 2.7 GHz i5 | 8 GB | 4:15 | 0:33
+🖥 | iMac 5K </br>512GB Flash, 27", Late 2015 | 4.0Ghz i7 | 32 GB | 0:28 | 0:06|
 ![](assets/pro.jpg) | Mac Pro Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05
 
 
