@@ -5,19 +5,19 @@ These are the results from running Xcode on a non-trivial open source project us
 
 🖥 |Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time |
 --- | -------------- | --- | --- | ---------------- | ---------------------- |
-💻 | MacBook </br>Retina, 12-inch, Early 2015 | 1.1 GHz Intel Core M | 8 GB | 3:00 | 0:12
-💻 | MacBook Air </br>13-inch, Mid 2012, 512 SSD | 2Ghz Intel Core i7 | 8 GB | 2:10 | 0:11
-💻 | MacBook Pro </br>15-inch, Early 2011 | 2.0 GHz Intel Core i7 | 8 GB | 1:00 | 0:13
-💻 | MacBook Pro </br>15-inch, Early 2011, SSD | 2.0 GHz Intel Core i7 | 8 GB | 1:01 | 0:10 
-💻 | MacBook Pro </br>Retina, 15-inch, Mid 2012 | 2.3 GHz Intel Core i7 | 16 GB | 0:46 | 0:08
-💻 | MacBook Pro </br>Retina, 15-inch, Early 2013 | 2.4 GHz Intel Core i7 | 8 GB | 0:47 | 0:10
-💻 | MacBook Pro </br>Retina, 15-inch, Late 2013 | 2.3 GHz Intel Core i7 | 16 GB | 0:53 | 0:09
-💻 | MacBook Pro </br>Retina, 15-inch, Mid 2014 | 2.2 GHz Intel Core i7 | 16 GB | 0:51 | 0:07
-💻 | MacBook Pro </br>Retina, 15-inch, Mid 2015 | 2.8 GHz Intel Core i7 | 16 GB | 0:39 | 0:07
-![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core Intel Core i7 | 16GB | 0:50 | 0.09
-🖥 | iMac </br>(HDD 500 GB, 21.5-inch, Mid 2010) | 3.06 GHz Intel Core i3 | 12 GB | 3:59 | 0:14
-🖥 | iMac </br>(HDD 1 TB, 21.5-inch, Late 2012 | 2.7 GHz Intel Core i5 | 8 GB | 4:15 | 0:33
-🖥 | iMac 5K </br>512GB Flash, 27-inch, Late 2015 | 4.0Ghz Intel Core i7 | 32 GB | 0:28 | 0:06|
+💻 | MacBook </br>Retina, 12-inch, Early 2015 | 1.1 GHz Intel M | 8 GB | 3:00 | 0:12
+💻 | MacBook Air </br>13-inch, Mid 2012, 512 SSD | 2Ghz Intel i7 | 8 GB | 2:10 | 0:11
+💻 | MacBook Pro </br>15-inch, Early 2011 | 2.0 GHz Intel i7 | 8 GB | 1:00 | 0:13
+💻 | MacBook Pro </br>15-inch, Early 2011, SSD | 2.0 GHz Intel i7 | 8 GB | 1:01 | 0:10 
+💻 | MacBook Pro </br>Retina, 15-inch, Mid 2012 | 2.3 GHz Intel i7 | 16 GB | 0:46 | 0:08
+💻 | MacBook Pro </br>Retina, 15-inch, Early 2013 | 2.4 GHz Intel i7 | 8 GB | 0:47 | 0:10
+💻 | MacBook Pro </br>Retina, 15-inch, Late 2013 | 2.3 GHz Intel i7 | 16 GB | 0:53 | 0:09
+💻 | MacBook Pro </br>Retina, 15-inch, Mid 2014 | 2.2 GHz Intel i7 | 16 GB | 0:51 | 0:07
+💻 | MacBook Pro </br>Retina, 15-inch, Mid 2015 | 2.8 GHz Intel i7 | 16 GB | 0:39 | 0:07
+![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core Intel  i7 | 16GB | 0:50 | 0.09
+🖥 | iMac </br>(HDD 500 GB, 21.5-inch, Mid 2010) | 3.06 GHz Intel i3 | 12 GB | 3:59 | 0:14
+🖥 | iMac </br>(HDD 1 TB, 21.5-inch, Late 2012 | 2.7 GHz Intel i5 | 8 GB | 4:15 | 0:33
+🖥 | iMac 5K </br>512GB Flash, 27-inch, Late 2015 | 4.0Ghz Intel i7 | 32 GB | 0:28 | 0:06|
 ![](assets/pro.jpg) | Mac Pro Flash Storage, Late 2013 | 3.5 GHz 6-Core Intel Xeon E5 | 32 GB | 0:30 | 0:05
 
 
