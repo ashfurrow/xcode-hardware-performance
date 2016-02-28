@@ -10,6 +10,7 @@ These are the results from running Xcode on a non-trivial open source project us
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.2 GHz M | 8 GB | 2:28 | 0:12
 💻 | MacBook Air </br>13", Mid 2012, 512 SSD | 2 Ghz i7 | 8 GB | 2:10 | 0:11
+💻 | MacBook Pro </br>13", Early 2015, 1TB SSD | 3.1 Ghz i7 | 16 GB | 1:25 | 0:09
 💻 | MacBook Pro </br>15", Early 2011 | 2.0 GHz i7 | 8 GB | 1:00 | 0:13
 💻 | MacBook Pro </br>15" Early 2011, SSD | 2.0 GHz i7 | 8 GB | 1:01 | 0:10 
 💻 | MacBook Pro </br>Retina, 15", Mid 2012 | 2.3 GHz i7 | 16 GB | 0:46 | 0:08
