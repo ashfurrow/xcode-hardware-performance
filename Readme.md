@@ -5,6 +5,7 @@ These are the results from running Xcode on a non-trivial open source project us
 
 🖥 |Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time |
 --- | -------------- | --- | --- | ---------------- | ---------------------- |
+💻 | MacBook Air </br>13", Mid 2013, 128 SSD | 1.3 Ghz i5 | 4 GB | 2:58 | 0:24
 💻 | MacBook Pro </br>13”, Mid 2010 512 SSD | 2.4 GHz Intel Core 2 Duo | 8 GB | 3:01 | 0:24
 💻 | MacBook Pro </br>13”, Mid 2012 256 SSD | 2.5 GHz i5 | 8 GB | 2:08 | 0:19
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12
