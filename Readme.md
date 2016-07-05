@@ -7,13 +7,14 @@ These are the results from running Xcode on a non-trivial open source project us
 --- | -------------- | --- | --- | ---------------- | ---------------------- |
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.2 GHz M | 8 GB | 2:28 | 0:12
+💻 | MacBook </br>Retina, 12", Early 2016 | 1.2 GHz m5 | 8 GB | 2:10 | 0:12
 💻 | MacBook Air </br>13", Mid 2012, 512 SSD | 2 Ghz i7 | 8 GB | 2:10 | 0:11
 💻 | MacBook Air </br>13", Mid 2013, 128 SSD | 1.3 Ghz i5 | 4 GB | 2:58 | 0:24
 💻 | MacBook Pro </br>13”, Mid 2010 512 SSD | 2.4 GHz Intel Core 2 Duo | 8 GB | 3:01 | 0:24
 💻 | MacBook Pro </br>13”, Mid 2012 256 SSD | 2.5 GHz i5 | 8 GB | 2:08 | 0:19
 💻 | MacBook Pro </br>13", Early 2015, 1TB SSD | 3.1 Ghz i7 | 16 GB | 1:25 | 0:09
 💻 | MacBook Pro </br>15", Early 2011 | 2.0 GHz i7 | 8 GB | 1:00 | 0:13
-💻 | MacBook Pro </br>15" Early 2011, SSD | 2.0 GHz i7 | 8 GB | 1:01 | 0:10 
+💻 | MacBook Pro </br>15" Early 2011, SSD | 2.0 GHz i7 | 8 GB | 1:01 | 0:10
 💻 | MacBook Pro </br>Retina, 15", Mid 2012 | 2.3 GHz i7 | 16 GB | 0:46 | 0:08
 💻 | MacBook Pro </br>Retina, 15", Early 2013 | 2.4 GHz i7 | 8 GB | 0:47 | 0:10
 💻 | MacBook Pro </br>Retina, 15", Late 2013 | 2.3 GHz i7 | 16 GB | 0:53 | 0:09
@@ -32,13 +33,13 @@ These are the results from running Xcode on a non-trivial open source project us
 Specifications
 --------------
 
-For the test, I decided to use an app that I actually work on: [eidolon](https://github.com/artsy/eidolon). 
+For the test, I decided to use an app that I actually work on: [eidolon](https://github.com/artsy/eidolon).
 
 For "fresh" builds, I cleaned the build folder (⌘⇧K) repeatedly until it worked with no permissions problems. Then I sat and waited for Xcode to index the project. I also made sure the simulator was _closed_, so these times include booting the simulator and launching the app. Then I hit ⌘R and start a timer, only ending it when the app had fully launched.
 
-"Incremental" builds represent a more common use case: changing one file and recompiling with the simulator already running. I added `print("hello!")` to `application(: didFinishLaunchingWithOptions:)` and hit ⌘R, timing the time it took for the app to launch. 
+"Incremental" builds represent a more common use case: changing one file and recompiling with the simulator already running. I added `print("hello!")` to `application(: didFinishLaunchingWithOptions:)` and hit ⌘R, timing the time it took for the app to launch.
 
-I repeated each test a few times and took their average times. 
+I repeated each test a few times and took their average times.
 
 Contributing
 ------------
