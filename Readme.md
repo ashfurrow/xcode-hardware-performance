@@ -27,8 +27,9 @@ These are the results from running Xcode on a non-trivial open source project us
 💻 | MacBook Air </br>13", Mid 2013, 128 SSD | 1.3 Ghz i5 | 4 GB | 2:58 | 0:24
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12
 💻 | MacBook Pro </br>13”, Mid 2010 512 SSD | 2.4 GHz Intel Core 2 Duo | 8 GB | 3:01 | 0:24
-🖥 | iMac </br>HDD 1 TB, 21.5", Late 2012 | 2.7 GHz i5 | 8 GB | 4:15 | 0:33
 🖥 | iMac </br>HDD 500 GB, 21.5", Mid 2010 | 3.06 GHz i3 | 12 GB | 3:59 | 0:14
+🖥 | iMac </br>HDD 1 TB, 21.5", Late 2012 | 2.7 GHz i5 | 8 GB | 4:15 | 0:33
+
 
 
 
