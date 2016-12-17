@@ -23,6 +23,7 @@ These are the results from running Xcode on a non-trivial open source project us
 💻 | MacBook Pro </br>Retina, 15", Mid 2014 | 2.2 GHz i7 | 16 GB | 0:51 | 0:07
 💻 | MacBook Pro </br>Retina, 15", Mid 2015 | 2.5 GHz i7 | 16 GB | 0:42 | 0:09
 💻 | MacBook Pro </br>Retina, 15", Mid 2015 | 2.8 GHz i7 | 16 GB | 0:39 | 0:07
+💻 | MacBook Pro </br>Touch Bar, 15", Late 2016 | 2.9 GHz i7 | 16 GB | 1:04 | 0:26
 ![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 0:50 | 0:09
 🖥 | iMac </br>HDD 500 GB, 21.5", Mid 2010 | 3.06 GHz i3 | 12 GB | 3:59 | 0:14
 🖥 | iMac </br>HDD 1 TB, 21.5", Late 2012 | 2.7 GHz i5 | 8 GB | 4:15 | 0:33
