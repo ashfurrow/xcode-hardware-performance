@@ -30,6 +30,7 @@ These are the results from running Xcode on a non-trivial open source project us
 🖥 | iMac </br>HDD 1 TB, 27", Late 2012 | 3.4 GHz i7 | 8 GB | 0:54 | 0:12
 🖥 | iMac 5K </br>512GB Flash, 27", Late 2015 | 4.0Ghz i7 | 32 GB | 0:28 | 0:06|
 ![](assets/pro.jpg) | Mac Pro Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05
+💻 | MacBook Pro </br>Touch Bar, 15", Late 2016 | 2.9 GHz i7 | 16 GB | 0:54 | 0:17
 
 
 
