@@ -23,6 +23,7 @@ Once Xcode 9 is out of beta, we'll have to start over again. We're looking for w
 💻 | MacBook Pro </br>Touch Bar, 15", Late 2016 | 2.9 GHz i7 | 16 GB | 1:04 | 0:26 |
 💻 | MacBook Pro </br>13", Early 2015, 1TB SSD | 3.1 Ghz i7 | 16 GB | 1:25 | 0:09 |
 💻 | MacBook Pro </br>Retina, 13", Early 2015 | 2.7 GHz i5 | 8 GB | 1:35 | 0:11 |
+💻 | MacBook </br>Retina, 12", Mid 2017 | 1.4 GHz i7 | 16 GB | 1:49 | 0:16 |
 💻 | MacBook Pro </br>13”, Mid 2012 256 SSD | 2.5 GHz i5 | 8 GB | 2:08 | 0:19 |
 💻 | MacBook Air </br>13", Mid 2012, 512 SSD | 2 Ghz i7 | 8 GB | 2:10 | 0:11 |
 💻 | MacBook </br>Retina, 12", Early 2016 | 1.2 GHz m5 | 8 GB | 2:10 | 0:12 |
