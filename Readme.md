@@ -24,12 +24,14 @@ Once Xcode 9 is out of beta, we'll have to start over again. We're looking for w
 💻 | MacBook Pro </br>13", Early 2015, 1TB SSD | 3.1 Ghz i7 | 16 GB | 1:25 | 0:09 |
 💻 | MacBook Pro </br>Retina, 13", Early 2015 | 2.7 GHz i5 | 8 GB | 1:35 | 0:11 |
 💻 | MacBook </br>Retina, 12", Mid 2017 | 1.4 GHz i7 | 16 GB | 1:49 | 0:16 |
+💻 | MacBook Pro </br>Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14
 💻 | MacBook Pro </br>13”, Mid 2012 256 SSD | 2.5 GHz i5 | 8 GB | 2:08 | 0:19 |
 💻 | MacBook Air </br>13", Mid 2012, 512 SSD | 2 Ghz i7 | 8 GB | 2:10 | 0:11 |
 💻 | MacBook </br>Retina, 12", Early 2016 | 1.2 GHz m5 | 8 GB | 2:10 | 0:12 |
 💻 | MacBook Pro </br>13”, Late 2013 256 SSD | 2.4 GHz i5 | 8 GB | 2:17 | 0:23 |
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.2 GHz M | 8 GB | 2:28 | 0:12 |
 💻 | MacBook </br>Retina, 12", Early 2015 | 1.1 GHz M | 8 GB | 3:00 | 0:12 |
+💻 | MacBook </br>Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23
 💻 | MacBook Pro </br>13", Early 2011, 512 SSD | 2.7 Ghz i7 | 8 GB | 2:30 | 0:16 |
 💻 | MacBook Air </br>13", Mid 2013, 128 SSD | 1.3 Ghz i5 | 4 GB | 2:58 | 0:24 |
 💻 | MacBook Pro </br>13”, Mid 2010 512 SSD | 2.4 GHz Intel Core 2 Duo | 8 GB | 3:01 | 0:24 |
