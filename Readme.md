@@ -1,11 +1,20 @@
 Xcode Hardware Performance
 ==========================
 
-These are the results from running Xcode 8 on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
+These are the results from running Xcode on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
 
-Once Xcode 9 is out of beta, we'll have to start over again. We're looking for ways to make this more reproducible and scientific, see [#39](https://github.com/ashfurrow/xcode-hardware-performance/issues/39).
+Xcode 9
+-------
 
-🖥 |Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date |
+🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date | New Build System? |
+-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ----------------- |
+💻 | MacBook Pro </br>Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 | | :x:
+💻 | MacBook </br>Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 | | :x:
+
+Xcode 8
+-------
+
+🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date |
 -- | ------------- | --- | --- | ---------------- | ---------------------- | ---- |
 🖥 | iMac 5K </br>512GB Flash, 27", Late 2015 | 4.0Ghz i7 | 32 GB | 0:28 | 0:06| |
 ![](assets/pro.jpg) | Mac Pro Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05 |
