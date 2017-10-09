@@ -8,6 +8,8 @@ Xcode 9
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ----------------- |
+💻 | MacBook Pro </br>Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:49 | 0:16 | 10/9/17 | :heavy_check_mark:
+💻 | MacBook Pro </br>Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:50 | 0:15 | 10/9/17 | :x:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 | | :x:
 💻 | MacBook </br>Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 | | :x:
 
