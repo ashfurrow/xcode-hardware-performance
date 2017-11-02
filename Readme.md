@@ -13,6 +13,7 @@ Xcode 9
 ![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 1:32 | 0:18 | 10/20/17 | :x:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 | | :x:
 💻 | MacBook </br>Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 | | :x:
+💻 | MacBook Pro </br>13", Mid 2012 | 2.9 GHz i7 | 8 GB | 2:30 | 0:23 | | :x:
 
 Xcode 8
 -------
