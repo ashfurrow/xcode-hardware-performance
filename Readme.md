@@ -8,6 +8,7 @@ Xcode 9
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ----------------- |
+💻 |iMac Pro </br>10 Core, Late 2017 | 3 GHz Intel Xeon W | 64 GB | 0:41 | 0:07 | 12/28/17 | :x:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:49 | 0:16 | 10/9/17 | :heavy_check_mark:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:50 | 0:15 | 10/9/17 | :x:
 ![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 1:32 | 0:18 | 10/20/17 | :x:
