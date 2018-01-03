@@ -8,9 +8,10 @@ Xcode 9
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ----------------- |
-🖥 |iMac Pro </br>10 Core, Late 2017 | 3 GHz Intel Xeon W | 64 GB | 0:41 | 0:07 | 12/28/17 | :x:
+🖥 | iMac Pro </br>10 Core, Late 2017 | 3 GHz Intel Xeon W | 64 GB | 0:41 | 0:07 | 12/28/17 | :x:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:49 | 0:16 | 10/9/17 | :heavy_check_mark:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:50 | 0:15 | 10/9/17 | :x:
+💻 | MacBook Pro </br>Retina, 15", 2015 | 2.8 GHz i7 | 16 GB | 1:17 | 0:12 | 1/2/17 | :x:
 ![](assets/mini.jpg) | Mac Mini </br> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 1:32 | 0:18 | 10/20/17 | :x:
 💻 | MacBook Pro </br>Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 | | :x:
 💻 | MacBook </br>Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 | | :x:
@@ -66,9 +67,9 @@ Contributing
 
 It would be super-cool if we could perform the above tests on a variety of machines and consolidate the results here. You can [follow the instructions](https://github.com/artsy/eidolon#downloading-the-code) to download the code and the project dependencies, and send a pull request adding your own results. I'd super-appreciate it! :bow:
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by [its terms](/Code%20of%20Conduct.md).
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by [its terms](Code%20of%20Conduct.md).
 
 License
 -------
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
