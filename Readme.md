@@ -66,7 +66,7 @@ Contributing
 
 It would be super-cool if we could perform the above tests on a variety of machines and consolidate the results here. You can [follow the instructions](https://github.com/artsy/eidolon#downloading-the-code) to download the code and the project dependencies, and send a pull request adding your own results. I'd super-appreciate it! :bow:
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by [its terms](/Code of Conduct.md).
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by [its terms](/Code%20of%20Conduct.md).
 
 License
 -------
