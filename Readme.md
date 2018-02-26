@@ -6,10 +6,10 @@ These are the results from running Xcode on a non-trivial open source project us
 Xcode 9
 -------
 
-🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date | New Build System? |
+🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ----------------- |
-⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/57)<br />Early 2018 | i7-8700K 4.70+ GHz | 32 GB | 0:36 | 0:07 | 2018-02-19 | :x:
-⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/58)<br />Late 2015 | i7-4790k 4.0 GHz | 32 GB | 0:40 | 0:07 | 2018-02-22 | :x:
+⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/57)<br />Early 2018 | i7-8700K 4.70+ GHz | 32 GB | 0:36 | 0:07 | 2018-02-19 ([commit](https://github.com/artsy/eidolon/commit/0bd0899bab780b2938489cd0abd64e07e229672a)) | :x:
+⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/58)<br />Late 2015 | i7-4790k 4.0 GHz | 32 GB | 0:40 | 0:07 | 2018-02-22 ([commit](https://github.com/artsy/eidolon/commit/0bd0899bab780b2938489cd0abd64e07e229672a)) | :x:
 🖥 | iMac Pro <br />10 Core, Late 2017 | 3 GHz Intel Xeon W | 64 GB | 0:41 | 0:07 | 2017-12-28 | :x:
 🖥 | iMac 27" <br />5K 1TB SSD, Mid 2017 | 4,2 GHz i7 | 40 GB | 0:49 | 0:08 | 2018-01-18 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:49 | 0:16 | 2017-10-09 | :heavy_check_mark:
@@ -58,7 +58,7 @@ Xcode 8
 Specifications
 --------------
 
-For the test, I decided to use an app that I actually work on: [eidolon](https://github.com/artsy/eidolon).
+For the test, I decided to use an app that I actually work on: [eidolon](https://github.com/artsy/eidolon). Unlike most iOS apps, the project is stable and not under active development, so it's a prime candidate for accurate-ish benchmarking.
 
 For "fresh" builds, I cleaned the build folder (⌘⇧K) repeatedly until it worked with no permissions problems. Then I sat and waited for Xcode to index the project. I also made sure the simulator was _closed_, so these times include booting the simulator and launching the app. Then I hit ⌘R and start a timer, only ending it when the app had fully launched.
 
