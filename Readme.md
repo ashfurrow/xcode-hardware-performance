@@ -8,7 +8,9 @@ Xcode 9
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ----------------- |
+⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/61)<br />Early 2018 | i7-7700k 4.5 GHz | 16 GB | 0:35 | 0:05 | 2018-03-10 | :heavy_check_mark:
 ⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/57)<br />Early 2018 | i7-8700K 4.70+ GHz | 32 GB | 0:36 | 0:07 | 2018-02-19 ([commit](https://github.com/artsy/eidolon/commit/0bd0899bab780b2938489cd0abd64e07e229672a)) | :x:
+⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/61)<br />Early 2018 | i7-7700k 4.5 GHz | 16 GB | 0:48 | 0:07 | 2018-03-10 | :x:
 ⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/58)<br />Late 2015 | i7-4790k 4.0 GHz | 32 GB | 0:40 | 0:07 | 2018-02-22 ([commit](https://github.com/artsy/eidolon/commit/0bd0899bab780b2938489cd0abd64e07e229672a)) | :x:
 🖥 | iMac Pro <br />10 Core, Late 2017 | 3 GHz Intel Xeon W | 64 GB | 0:41 | 0:07 | 2017-12-28 | :x:
 🖥 | iMac Pro <br />18 Core, Late 2017 | 2.3 GHz Intel Xeon W | 128 GB | 0:47 | 0:07 | 2018-03-07 ([commit](https://github.com/artsy/eidolon/commit/24c721af3a9991c7c1ebd5dcaef80f470cf5ddcc)) | :x:
