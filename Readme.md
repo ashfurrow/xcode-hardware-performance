@@ -18,9 +18,13 @@ Xcode 9
 🖥 | iMac 27" <br />5K 1TB SSD, Mid 2017 | 4,2 GHz i7 | 40 GB | 0:49 | 0:08 |    | 2018-01-18 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:49 | 0:16 |    | 2017-10-09 | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.9 GHz i7 | 16 GB | 0:50 | 0:15 |    | 2017-10-09 | :x:
+💻 | MacBook Pro <br />Retina, 15", 2015 | 2.5 GHz i7 | 16 GB | 0:51 | 0:09 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :heavy_check_mark:
 🖥 | MacPro Late 2013 | 2.7 GHz 12core Intel Xeon E5 | 64 GB | 0:54 | 0:10 |    | 2018-03-07 ([commit](https://github.com/artsy/eidolon/commit/24c721af3a9991c7c1ebd5dcaef80f470cf5ddcc)) | :x:
+🖥 | iMac 27"<br />256GB SSD, Late 2013 | 3.2 GHz i5 | 24 GB | 0:56 | 0:10 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Late 2013 | 2.6 GHz i7 | 16 GB | 1:09 | 0:12 |    | 2018-02-28 | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", 2015 | 2.8 GHz i7 | 16 GB | 1:17 | 0:12 |    | 2018-01-02 | :x:
+💻 | MacBook Pro <br />Retina, 15", 2015 | 2.5 GHz i7 | 16 GB | 1:20 | 0:09 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :x:
+🖥 | iMac 27"<br />256GB SSD, Late 2013 | 3.2 GHz i5 | 24 GB | 1:27 | 0:10 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :x:
 💻 | MacBook Pro <br />Retina, 13", 2014 | 2.6 GHz i5 | 8 GB | 2:30 | 0:23 |    | 2018-01-04 | :x:
 ![](assets/mini.jpg) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3 GHz Quad-Core i7 | 16 GB | 1:32 | 0:18 |    | 2017-10-20 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 |    | | :x:
