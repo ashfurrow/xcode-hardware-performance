@@ -28,7 +28,7 @@ Xcode 9
 💻 | MacBook Pro <br />Retina, 13", 2014 | 2.6 GHz i5 | 8 GB | 2:30 | 0:23 |    | 2018-01-04 | :x:
 ![](assets/mini.jpg) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3 GHz Quad-Core i7 | 16 GB | 1:32 | 0:18 |    | 2017-10-20 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 |    | | :x:
-🖥 | iMac 27" <br />120GB SSD, Mid 2010 | 2.93 GHz i7 | 8 GB | 2:05 | 0:16 |    | 2018-03-21 | :x:
+🖥 | iMac 27" <br />120GB SSD, Mid 2010 | 2.93 GHz i7 | 8 GB | 2:05 | 0:16 | 9.3 | 2018-03-21 | :x:
 💻 | MacBook <br />Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 |    | | :x:
 💻 | MacBook Pro <br />13", Mid 2012 | 2.9 GHz i7 | 8 GB | 2:30 | 0:23 |    | | :x:
 
