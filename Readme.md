@@ -25,6 +25,7 @@ Xcode 9
 💻 | MacBook Pro <br />Retina, 15", 2015 | 2.8 GHz i7 | 16 GB | 1:17 | 0:12 |    | 2018-01-02 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2015 | 2.5 GHz i7 | 16 GB | 1:20 | 0:09 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :x:
 🖥 | iMac 27"<br />256GB SSD, Late 2013 | 3.2 GHz i5 | 24 GB | 1:27 | 0:10 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :x:
+⌨️ | [Custom Laptop](https://github.com/ashfurrow/xcode-hardware-performance/pull/67)<br />Mid 2018 | i5-8250u 3.4 GHz | 16 GB | 1:58 | 0:10 | 9.3 | 2018-05-11 | :x:
 💻 | MacBook Pro <br />Retina, 13", 2014 | 2.6 GHz i5 | 8 GB | 2:30 | 0:23 |    | 2018-01-04 | :x:
 ![](assets/mini.jpg) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3 GHz Quad-Core i7 | 16 GB | 1:32 | 0:18 |    | 2017-10-20 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 |    | | :x:
