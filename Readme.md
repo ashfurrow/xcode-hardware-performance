@@ -34,6 +34,8 @@ Xcode 9
 💻 | MacBook Pro <br />13", Mid 2012 | 2.9 GHz i7 | 8 GB | 2:30 | 0:23 |    | | :x:
 ![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 1:15 | 0:10 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
 ![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 0:35 | 0:11 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
+💻 | MacBook Pro <br />13", Mid-2017 | 2.3 GHz i5 (I5-7360U) | 8 GB | 01:42 | 0:12 |    | | :x:
+💻 | MacBook Pro <br />13", Mid-2017 | 2.3 GHz i5 (I5-7360U) | 8 GB | 01:12 | 0:12 |    | | :heavy_check_mark:
 
 Xcode 8
 -------
