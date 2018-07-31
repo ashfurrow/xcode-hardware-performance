@@ -8,6 +8,7 @@ Xcode 9
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+💻 | MacBook Pro <br />Retina, 13", Early 2015 | 2.7 GHz i5 | 8 GB | 2:25 | 0:31 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
 💻 | MacBook Pro <br />Retina, 13", Early 2015 | 2.7 GHz i5 | 8 GB | 1:12 | 0:18 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Mid 2018 | 2.9 GHz i9 | 32 GB | 0:32 | 0:04 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
 ⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/62)<br />Early 2018 | i7-8700K 4.70+ GHz | 32 GB | 0:19 | 0:07 |    | 2018-03-11 ([commit](https://github.com/artsy/eidolon/commit/0bd0899bab780b2938489cd0abd64e07e229672a)) | :heavy_check_mark:
