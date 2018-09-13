@@ -8,7 +8,7 @@ Xcode 10
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
-💻 | [MacBook Pro](https://github.com/ashfurrow/xcode-hardware-performance/pull/73) <br />Retina, 15", Mid 2012 | 2.6 GHz i7-3720QM | 16 GB | 40.65 | 0:04 | 10.0 | 2018-09-13 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
+💻 | MacBook Pro <br />Retina, 15", Mid 2012 | 2.6 GHz i7-3720QM | 16 GB | 40.65 | 0:04 | 10.0 | 2018-09-13 ([commit](https://github.com/michael-mckenna/xcode-hardware-performance/commit/cc869fd91cc731789fb1aab14de81e13b4718172)) | :heavy_check_mark:
 
 Xcode 9
 -------
