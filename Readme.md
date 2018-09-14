@@ -3,6 +3,13 @@ Xcode Hardware Performance
 
 These are the results from running Xcode on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
 
+Xcode 10
+-------
+
+🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
+-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+💻 | MacBook Pro <br />Retina, 15", Mid 2012 | 2.6 GHz i7-3720QM | 16 GB | 0:40 | 0:042 | 10.0 | 2018-09-13 ([commit](https://github.com/michael-mckenna/xcode-hardware-performance/commit/cc869fd91cc731789fb1aab14de81e13b4718172)) | :heavy_check_mark:
+
 Xcode 9
 -------
 
