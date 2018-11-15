@@ -3,11 +3,22 @@ Xcode Hardware Performance
 
 These are the results from running Xcode on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
 
+Xcode 10
+-------
+
+🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
+-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/81)| i9-9900K 4.8 GHz | 32 GB | 0:25 | 0:07 | 10.1 |2018-11-04 | :heavy_check_mark:
+💻 | MacBook Pro <br />Retina, 15", Mid 2012 | 2.6 GHz i7-3720QM | 16 GB | 0:40 | 0:042 | 10.0 | 2018-09-13 ([commit](https://github.com/michael-mckenna/xcode-hardware-performance/commit/cc869fd91cc731789fb1aab14de81e13b4718172)) | :heavy_check_mark:
+💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.8 GHz i7-4980HQ | 16 GB | 0:36 | 0:038 | 10.0 | 2018-09-24 ([commit](https://github.com/GDXRepo/xcode-hardware-performance/commit/e7ccab80a3cd3451e444b03ada3495f674af84f1)) | :heavy_check_mark:
+💻 | MacBook Air <br />13", Mid 2017 | 1.8 GHz i5-5350U | 8 GB | 1:47 | 0:15 | 10.0 | 2018-10-01 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
+
 Xcode 9
 -------
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+💻 | MacBook Pro <br />Retina, 15", Mid 2018 | 2.2 GHz i7 | 32 GB | 0:42 | 0:09 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", 2018 | 2.9 GHz i9 | 32 GB | 0:30 | 0:04 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 13", Early 2015 | 2.7 GHz i5 | 8 GB | 2:25 | 0:31 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
 💻 | MacBook Pro <br />Retina, 13", Early 2015 | 2.7 GHz i5 | 8 GB | 1:12 | 0:18 |  | 2018-05-19 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
