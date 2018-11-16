@@ -54,8 +54,8 @@ Xcode 9
 🖥 | iMac 27" <br />120GB SSD, Mid 2010 | 2.93 GHz i7 | 8 GB | 2:05 | 0:16 | 9.3 | 2018-03-21 | :x:
 💻 | MacBook <br />Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 |    | | :x:
 💻 | MacBook Pro <br />13", Mid 2012 | 2.9 GHz i7 | 8 GB | 2:30 | 0:23 |    | | :x:
-![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 1:15 | 0:10 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
-![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 0:35 | 0:11 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
+![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 1:15 | 0:10 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
+![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 0:35 | 0:11 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
 💻 | MacBook Pro <br />13", Mid-2017, 256GB SSD | 2.3 GHz i5 (I5-7360U) | 8 GB | 01:42 | 0:12 | 9.2 | 2018-06-29 | :x:
 💻 | MacBook Pro <br />13", Mid-2017, 256GB SSD | 2.3 GHz i5 (I5-7360U) | 8 GB | 01:12 | 0:12 | 9.2 | 2018-06-29 | :heavy_check_mark:
 ![](assets/mini.png) | Mac Mini, <br /> Mid-2011, 128GB SSD | 2.3 GHz i5 (I5-2415M) | 8 GB | 03:12 | 0:20 |  9.2 | 2018-07-04 | :x:
@@ -67,7 +67,7 @@ Xcode 8
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date |
 -- | ------------- | --- | --- | ---------------- | ---------------------- | ---- |
 🖥 | iMac 5K <br />512GB Flash, 27", Late 2015 | 4.0 GHz i7 | 32 GB | 0:28 | 0:06| |
-![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05 |
+![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.8 GHz i7 | 16 GB | 0:39 | 0:07 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.5 GHz i7 | 16 GB | 0:42 | 0:09 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2012 | 2.3 GHz i7 | 16 GB | 0:46 | 0:08 |
