@@ -8,6 +8,8 @@ Xcode 10
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+💻 | MacBook Pro <br />Retina, 15", Mid 2018 | 2.2 GHz i7-8750H | 16 GB | 0:35 | 0:08 | 10.1 | 2018-11-16 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
+![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 512GB SSD | 3.2 GHz i7-8700B | 16 GB | 0:32 | 0:07 | 10.1 | 2018-11-15 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
 ⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/81)| i9-9900K 4.8 GHz | 32 GB | 0:25 | 0:07 | 10.1 |2018-11-04 | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Mid 2012 | 2.6 GHz i7-3720QM | 16 GB | 0:40 | 0:042 | 10.0 | 2018-09-13 ([commit](https://github.com/michael-mckenna/xcode-hardware-performance/commit/cc869fd91cc731789fb1aab14de81e13b4718172)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.8 GHz i7-4980HQ | 16 GB | 0:36 | 0:038 | 10.0 | 2018-09-24 ([commit](https://github.com/GDXRepo/xcode-hardware-performance/commit/e7ccab80a3cd3451e444b03ada3495f674af84f1)) | :heavy_check_mark:
@@ -47,17 +49,17 @@ Xcode 9
 🖥 | iMac 27"<br />256GB SSD, Late 2013 | 3.2 GHz i5 | 24 GB | 1:27 | 0:10 | 9.2 | 2018-03-02 ([commit](https://github.com/artsy/eidolon/commit/e98923f54a3fee3642051b9f48556c5e912591e0)) | :x:
 ⌨️ | [Custom Laptop](https://github.com/ashfurrow/xcode-hardware-performance/pull/67)<br />Mid 2018 | i5-8250u 3.4 GHz | 16 GB | 1:58 | 0:10 | 9.3 | 2018-05-11 | :x:
 💻 | MacBook Pro <br />Retina, 13", 2014 | 2.6 GHz i5 | 8 GB | 2:30 | 0:23 |    | 2018-01-04 | :x:
-![](assets/mini.jpg) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3 GHz Quad-Core i7 | 16 GB | 1:32 | 0:18 |    | 2017-10-20 | :x:
+![](assets/mini.png) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3 GHz Quad-Core i7 | 16 GB | 1:32 | 0:18 |    | 2017-10-20 | :x:
 💻 | MacBook Pro <br />Retina, 15", 2017 | 2.8 GHz i7 | 16 GB | 1:50 | 0:14 |    | | :x:
 🖥 | iMac 27" <br />120GB SSD, Mid 2010 | 2.93 GHz i7 | 8 GB | 2:05 | 0:16 | 9.3 | 2018-03-21 | :x:
 💻 | MacBook <br />Retina, 15", Mid 2012 | 2.6 GHz i7 | 8 GB | 2:26 | 0:23 |    | | :x:
 💻 | MacBook Pro <br />13", Mid 2012 | 2.9 GHz i7 | 8 GB | 2:30 | 0:23 |    | | :x:
-![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 1:15 | 0:10 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
-![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 0:35 | 0:11 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
+![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 1:15 | 0:10 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :x:
+![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 3.7 GHz 4-Core Xeon E5 | 32 GB | 0:35 | 0:11 | 9.4.1 | 2018-06-20 ([commit](https://github.com/artsy/eidolon/commit/e90a1ffd38d73179a6fe2174587dcd98988efc48)) | :heavy_check_mark:
 💻 | MacBook Pro <br />13", Mid-2017, 256GB SSD | 2.3 GHz i5 (I5-7360U) | 8 GB | 01:42 | 0:12 | 9.2 | 2018-06-29 | :x:
 💻 | MacBook Pro <br />13", Mid-2017, 256GB SSD | 2.3 GHz i5 (I5-7360U) | 8 GB | 01:12 | 0:12 | 9.2 | 2018-06-29 | :heavy_check_mark:
-![](assets/mini.jpg) | Mac Mini, <br /> Mid-2011, 128GB SSD | 2.3 GHz i5 (I5-2415M) | 8 GB | 03:12 | 0:20 |  9.2 | 2018-07-04 | :x:
-![](assets/mini.jpg) | Mac Mini, <br /> Mid-2011, 128GB SSD | 2.3 GHz i5 (I5-2415M) | 8 GB | 02:04 | 0:20 |  9.2 | 2018-07-04 | :heavy_check_mark:
+![](assets/mini.png) | Mac Mini, <br /> Mid-2011, 128GB SSD | 2.3 GHz i5 (I5-2415M) | 8 GB | 03:12 | 0:20 |  9.2 | 2018-07-04 | :x:
+![](assets/mini.png) | Mac Mini, <br /> Mid-2011, 128GB SSD | 2.3 GHz i5 (I5-2415M) | 8 GB | 02:04 | 0:20 |  9.2 | 2018-07-04 | :heavy_check_mark:
 
 Xcode 8
 -------
@@ -65,12 +67,12 @@ Xcode 8
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Date |
 -- | ------------- | --- | --- | ---------------- | ---------------------- | ---- |
 🖥 | iMac 5K <br />512GB Flash, 27", Late 2015 | 4.0 GHz i7 | 32 GB | 0:28 | 0:06| |
-![](assets/pro.jpg) | Mac Pro <br />Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05 |
+![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 3.5 GHz 6-Core Xeon E5 | 32 GB | 0:30 | 0:05 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.8 GHz i7 | 16 GB | 0:39 | 0:07 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.5 GHz i7 | 16 GB | 0:42 | 0:09 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2012 | 2.3 GHz i7 | 16 GB | 0:46 | 0:08 |
 💻 | MacBook Pro <br />Retina, 15", Early 2013 | 2.4 GHz i7 | 8 GB | 0:47 | 0:10 |
-![](assets/mini.jpg) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 0:50 | 0:09 |
+![](assets/mini.png) | Mac Mini <br /> Mid 2012, 512 SSD | 2.3GHz Quad-Core i7 | 16GB | 0:50 | 0:09 |
 💻 | MacBook Pro <br />Retina, 15", Mid 2014 | 2.2 GHz i7 | 16 GB | 0:51 | 0:07 |
 💻 | MacBook Pro <br />Retina, 15", Late 2013 | 2.3 GHz i7 | 16 GB | 0:53 | 0:09 |
 🖥 | iMac <br />HDD 1 TB, 27", Late 2012 | 3.4 GHz i7 | 8 GB | 0:54 | 0:12 |
