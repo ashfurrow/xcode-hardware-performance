@@ -9,7 +9,7 @@ Xcode 10
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
 ![](assets/mini.png) | Mac Mini, <br /> Late 2012 | 2.3 GHz i7-3615QM | 8 GB | 1:05 | 0:14 | 10.1 | 2018-11-15 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
-💻 | MacBook Pro <br />Retina, 15", Mid 2014 | 2.8 GHz i7-4980HQ | 16 GB | 0:49 | 0:09 | 10.1 | 2018-11-16 () | :heavy_check_mark:
+💻 | MacBook Pro <br />Retina, 15", Mid 2014 | 2.8 GHz i7-4980HQ | 16 GB | 0:49 | 0:09 | 10.1 | 2018-11-16 () | ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
 ![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 512GB SSD | 3.2 GHz i7-8700B | 16 GB | 0:32 | 0:07 | 10.1 | 2018-11-15 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
 ![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 256GB SSD | 3.0 GHz i5-8500B | 8 GB | 0:58 | 0:08 | 10.1 | 2018-11-15 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Mid 2018 | 2.2 GHz i7-8750H | 16 GB | 0:35 | 0:08 | 10.1 | 2018-11-16 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
