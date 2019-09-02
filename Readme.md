@@ -8,6 +8,7 @@ Xcode 10
 
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+💻 | [MacBook Pro](https://github.com/ashfurrow/xcode-hardware-performance/pull/103) <br />Retina, 15", Mid 2019 | 2.3 GHz i9-9880H | 16 GB | 0:32 | 0:05 | 10.3 | 2019-09-03 ([commit](https://github.com/artsy/eidolon/commit/5d08938cf325c91f0121acfdb11b1de12ddf1b45)) | :heavy_check_mark:
 🖥 | iMac 5K 27",<br /> Early 2019, <br />256GB SSD | 3.0 GHz i5-8500 | 40 GB | 0:38 | 0:08 | 10.3 | 2019-08-07 | :heavy_check_mark:
 🖥 | [iMac 5K 27"](https://github.com/ashfurrow/xcode-hardware-performance/pull/100),<br /> Early 2019, <br />512GB SSD | 3.6 GHz i9-9900K | 16 GB | 0:29 | 0:05 | 10.2.1 | 2019-06-06 ([commit](https://github.com/artsy/eidolon/commit/9da107120b64fe73efaecaa4c3ef03e6180ce92f)) | :heavy_check_mark:
 💻 | [MacBook Pro](https://github.com/ashfurrow/xcode-hardware-performance/pull/99) <br />Touch Bar, 15", Mid 2018 | 2.9 GHz i9-8950HK | 32 GB | 0:43 | 0:06 | 10.2 | 2019-05-27 ([commit](https://github.com/artsy/eidolon/commit/9da107120b64fe73efaecaa4c3ef03e6180ce92f)) | :heavy_check_mark:
