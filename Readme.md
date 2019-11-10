@@ -3,6 +3,12 @@ Xcode Hardware Performance
 
 These are the results from running Xcode on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
 
+Xcode 11
+-------
+🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
+-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
+💻 | MacBook Pro 13",<br /> Retina, Mid 2014, <br />256GB SSD| 2.6 GHz i5-4278U | 8Gb | 1:43 | 0:27 | 11.2 | 2019-11-06 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
+
 Xcode 10
 -------
 
