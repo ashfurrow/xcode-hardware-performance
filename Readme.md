@@ -7,7 +7,7 @@ Xcode 11
 -------
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
-⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/105)| i7-9700K 3.6 GHz (Stock) | 32 GB | 0:35 | 0:06 | 11.2.1 |2019-11-26 | :heavy_check_mark:
+⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/105)| i7-9700K 3.6 GHz (Stock) | 32 GB | 0:35 | 0:06 | 11.2.1 | 2019-11-26 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 💻 | MacBook Pro 13",<br /> Retina, Mid 2014, <br />256GB SSD| 2.6 GHz i5-4278U | 8Gb | 1:43 | 0:27 | 11.2 | 2019-11-06 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 
 Xcode 10
