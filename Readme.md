@@ -5,6 +5,7 @@ These are the results from running Xcode on a non-trivial open source project us
 
 Xcode 11
 -------
+![](assets/mac-pro.png) | Mac Pro <br /> Late 2019 | 3.2 GHz 16-Core Xeon | 32 GB | 0:40 | 0:06 | 11.3 | 2020-01-19 | ? |
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
 🖥 | iMac 27"<br />512GB SSD, Late 2013 | 3.2 GHz i5 | 16 GB | 1:13 | 0:21 | 11.3 | 2019-11-06 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
