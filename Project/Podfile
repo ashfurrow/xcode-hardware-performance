@@ -1,0 +1,18 @@
+platform :ios, '13.0'
+
+target 'XcodeHardwarePerformance' do
+  use_frameworks!
+
+  pod 'Alamofire'
+  pod 'CryptoSwift'
+  pod 'Hero'
+  pod 'Nimble'
+  pod 'Quick'
+  pod 'Realm'
+  pod 'RealmSwift'
+  pod 'RxCocoa'
+  pod 'RxSwift'
+  pod 'SnapKit'
+  pod 'SwiftyJSON'
+  pod 'Swinject'
+end

@@ -1,0 +1,41 @@
+#
+# https://github.com/github/gitignore/blob/master/Swift.gitignore
+#
+
+## Build generated
+build/
+DerivedData
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the 
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://github.com/fastlane/fastlane/blob/master/docs/Gitignore.md
+
+Project/fastlane/report.xml
+Project/fastlane/screenshots
+Project/fastlane/test_output
+Pods/
+.DS_Store

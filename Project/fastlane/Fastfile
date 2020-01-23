@@ -1,0 +1,19 @@
+
+fastlane_require 'xcodeproj'
+fastlane_version "2.68.0"
+
+default_platform :ios
+
+before_all do |lane, options|
+  xcversion(version: "~> 11.0")
+end
+
+lane :test do |options|
+	cocoapods()
+
+	run_tests(
+		clean: true, 
+		reset_simulator: true,
+		force_quit_simulator: true
+	)
+end

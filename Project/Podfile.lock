@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CryptoSwift (1.3.0)
+  - Hero (1.5.0)
+  - Nimble (8.0.5)
+  - Quick (2.2.0)
+  - Realm (4.3.1):
+    - Realm/Headers (= 4.3.1)
+  - Realm/Headers (4.3.1)
+  - RealmSwift (4.3.1):
+    - Realm (= 4.3.1)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.0)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CryptoSwift
+  - Hero
+  - Nimble
+  - Quick
+  - Realm
+  - RealmSwift
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - SwiftyJSON
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - Hero
+    - Nimble
+    - Quick
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftyJSON
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CryptoSwift: 1283821600233bdbeb96d7b389c3288c3bf77211
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  Realm: 31dc40934081ef740f60feedc46d88473cbfeb40
+  RealmSwift: b5199e9a41f67b99f51acf6874a6166f5fbe93d1
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 19d3eb3ca283947242ec5ce7136e54bcffda8526
+
+COCOAPODS: 1.8.4
