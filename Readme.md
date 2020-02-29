@@ -13,7 +13,7 @@ Xcode 11
 ![](assets/mac-pro.png) | Mac Pro, <br /> 1 TB SSD, <br /> Late 2019 | 3.2 GHz 16-Core Xeon | 32 GB | 0:40 | 0:06 | 11.3 | 2020-01-10 | ? |
 💻 | MacBook Pro 16", <br/> Retina, 2019, <br/> 1 TB SSD <br/> | i9 2.4 GHz | 32 GB | 0:40 | 0:07 | 11.3 | 2020-01-10 | ?
 🖥 | iMac 27"<br />512GB SSD, 2019 | 3.6 GHz i9 | 40 GB | 0:26 | 0:5 | 11.3.1 | 2020-01-22 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
-🖥 | iMac 5K 27",<br /> Late 2014, <br />1 TB SSD | 4.0 GHz i7-4790K | 32 GB | 0:34 | 0:03 | 11.3.1 | 2020-02-07 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
+🖥 | iMac 5K 27",<br /> Late 2014, <br />1 TB SSD | 4.0 GHz i7-4790K | 32 GB | 0:57 | 0:22 | 11.3.1 | 2020-02-07 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 🖥 | iMac 27"<br />512GB SSD, Late 2013 | 3.2 GHz i5 | 16 GB | 1:13 | 0:21 | 11.3 | 2019-11-06 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 💻 | MacBook Pro 16", <br/> Retina, 2019, <br/> 1 TB SSD <br/> | i9-9880H 2.3 GHz | 32 GB | 0:39 | 0:09 | 11.2.1 (11B500) | 2019-11-26 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 ⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/105)| i7-9700K 3.6 GHz (Stock) | 32 GB | 0:35 | 0:06 | 11.2.1 | 2019-11-26 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
@@ -21,6 +21,7 @@ Xcode 11
 💻 | MacBook Pro 15", <br/> Retina, Mid 2015, <br/> 512GB SSD | 2.5 GHz i7-4870HQ | 16 GB | 0:45 | 0:07 | 11.3.1 | 2020-01-23 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 💻 | MacBook Pro 15", <br/> Retina, 2016, <br/> 512GB SSD | 2.7 GHz i7-6820HQ | 16 GB | 0:59 | 0:08 | 11.3.1 | 2020-01-18 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 💻 | MacBook Pro 15", <br/> Retina, 2012, <br/> 751GB SSD | 2.7 GHz i7-3820QM | 16 GB | 1:02 | 0:16 | 11.3.1 | 2020-02-28 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
+💻 | MacBook Pro 15", <br/> Retina, 2019, <br/> 512GB SSD | 2.3 GHz i9 | 16 GB | 1:10 | 0:05 | 11.3.1 | 2020-02-16 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 
 Xcode 10
 -------
@@ -37,6 +38,7 @@ Xcode 10
 🖥 | iMac 5K 27",<br /> Late 2014, <br />1 TB SSD | 4.0 GHz i7-4790K | 32 GB | 0:40 | 0:13 | 10.1 | 2019-03-08 ([commit](https://github.com/artsy/eidolon/commit/9da107120b64fe73efaecaa4c3ef03e6180ce92f)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Mid 2015 | 2.5 GHz i7-4870HQ | 16 GB | 0:46 | 0:10 | 10.1 | 2019-03-03 ([commit](https://github.com/artsy/eidolon/commit/5d08938cf325c91f0121acfdb11b1de12ddf1b45)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 15", Mid 2018 | 2,6 GHz i7-8850H | 16 GB | 0:28 | 0:09 | 10.1 | 2019-01-12 ([commit](https://github.com/artsy/eidolon/commit/c4e042680c8cea809b42eb2b1c827a3ea1d780b4)) | :heavy_check_mark:
+💻 | MacBook Pro <br />Retina, 13", 2018, Four Thunderbolt 3 Ports | 2.7 GHz i7-8559U | 16 GB | 0:49 | 0:09 | 10.2.1 | 2019-08-01 ([commit](https://github.com/artsy/eidolon/commit/9da107120b64fe73efaecaa4c3ef03e6180ce92f)) | :heavy_check_mark:
 💻 | MacBook Pro <br />Retina, 13", Early 2015 | 2.7 GHz i5-5257U | 8 GB | 1:26 | 0:12 | 10.1 | 2019-02-15 ([commit](https://github.com/artsy/eidolon/commit/5d08938cf325c91f0121acfdb11b1de12ddf1b45)) | :heavy_check_mark:
 ⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/90)| 4.0 GHz i7-8086K | 32 GB | 0:31 | 0:11 | 10.1 | 2019-01-10 ([commit](https://github.com/artsy/eidolon/commit/5d08938cf325c91f0121acfdb11b1de12ddf1b45)) | :heavy_check_mark:
 ![](assets/pro.png) | Mac Pro <br />Flash Storage, Late 2013 | 2.7 GHz 12-Core Xeon E5 | 64 GB | 0:40 | 0:08 | 10.1 | 2018-12-15 ([commit](https://github.com/artsy/eidolon/commit/5d08938cf325c91f0121acfdb11b1de12ddf1b45)) | :heavy_check_mark:
