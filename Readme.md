@@ -7,7 +7,6 @@ Xcode 11
 -------
 🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 -- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
-![](assets/pro.png) | Mac Pro, 2013, 512GB Flash storage | 3.3 GHz Xeon E5-2667v2 | 64 GB | 0:54 | 0:08 | 11.3.1 | 2020-02-29 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd))| ? | 
 ![](assets/mini.png) | Mac Mini, <br /> Late 2012, 250GB SSD (Samsung 850 EVO) | 2.3 GHz i7 | 16 GB | 1:06 | 0:17 | 11.3.1 | 2020-01-15 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 ![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 512GB SSD | 3.2 GHz i7 | 32 GB | 0:37 | 0:11 | 11.3.1 | 2020-01-15 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 ![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 512GB SSD | 3.2 GHz i7 | 32 GB | 0:37 | 0:11 | 11.3.1 | 2020-01-15 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :x:
@@ -23,6 +22,7 @@ Xcode 11
 💻 | MacBook Pro 15", <br/> Retina, 2016, <br/> 512GB SSD | 2.7 GHz i7-6820HQ | 16 GB | 0:59 | 0:08 | 11.3.1 | 2020-01-18 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 💻 | MacBook Pro 15", <br/> Retina, 2012, <br/> 751GB SSD | 2.7 GHz i7-3820QM | 16 GB | 1:02 | 0:16 | 11.3.1 | 2020-02-28 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 💻 | MacBook Pro 15", <br/> Retina, 2019, <br/> 512GB SSD | 2.3 GHz i9 | 16 GB | 1:10 | 0:05 | 11.3.1 | 2020-02-16 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
+![](assets/pro.png) | Mac Pro, 2013, 512GB Flash storage | 3.3 GHz Xeon E5-2667v2 | 64 GB | 0:54 | 0:08 | 11.3.1 | 2020-02-29 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd))| ? | 
 
 Xcode 10
 -------
