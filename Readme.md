@@ -11,6 +11,7 @@ Xcode 11
 ![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 512GB SSD | 3.2 GHz i7 | 32 GB | 0:37 | 0:11 | 11.3.1 | 2020-01-15 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 ![](assets/mini-2018.png) | Mac Mini, <br /> Late 2018, 512GB SSD | 3.2 GHz i7 | 32 GB | 0:37 | 0:11 | 11.3.1 | 2020-01-15 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :x:
 ![](assets/mac-pro.png) | Mac Pro, <br /> 1 TB SSD, <br /> Late 2019 | 3.2 GHz 16-Core Xeon | 32 GB | 0:40 | 0:06 | 11.3 | 2020-01-10 | ? |
+💻 | MacBook Pro 16", <br/> Retina, 2019, <br/> 500 GB SSD <br/> | i9-9980HK 2.4 GHz | 64 GB | 0:32 | 0:10 | 11.4 | 2020-04-02 | ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd))
 💻 | MacBook Pro 16", <br/> Retina, 2019, <br/> 1 TB SSD <br/> | i9 2.4 GHz | 32 GB | 0:40 | 0:07 | 11.3 | 2020-01-10 | ?
 🖥 | iMac 27"<br />512GB SSD, 2019 | 3.6 GHz i9 | 40 GB | 0:26 | 0:5 | 11.3.1 | 2020-01-22 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
 🖥 | iMac 5K 27",<br /> Late 2014, <br />1 TB SSD | 4.0 GHz i7-4790K | 32 GB | 0:57 | 0:22 | 11.3.1 | 2020-02-07 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:
