@@ -7,7 +7,7 @@ Xcode 11
 -------
 |🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 |-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
-|⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/108)| AMD Ryzen 9 3950X 4.3GHz(all cores) | 32 GB | 0:21 | 0:03 | 11.4 | 2020-04-16 ([commit](https://github.com/dangthaison91/xcode-hardware-performance/commit/96f9eda856c171fccbb159bc7c4e8ced720abc31) | :heavy_check_mark:|
+|⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/108)| AMD Ryzen 9 3950X 4.3GHz(all cores) | 32 GB | 0:21 | 0:03 | 11.4 | 2020-04-16 ([commit](https://github.com/ashfurrow/xcode-hardware-performance/pull/126) | :heavy_check_mark:|
 |🖥 | iMac 27"<br />512GB SSD, 2019 | 3.6 GHz i9 | 40 GB | 0:26 | 0:5 | 11.3.1 | 2020-01-22 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:|
 |💻 | MacBook Pro 16", <br/> Retina, 2019, <br/> 500 GB SSD <br/> | i9-9980HK 2.4 GHz | 64 GB | 0:32 | 0:10 | 11.4 | 2020-04-02 | ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd))|
 |⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/105)| i7-9700K 3.6 GHz (Stock) | 32 GB | 0:35 | 0:06 | 11.2.1 | 2019-11-26 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:|
