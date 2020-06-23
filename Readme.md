@@ -30,6 +30,7 @@ Xcode 11
 |🖥 | iMac 27"<br />512GB SSD, Late 2013 | 3.2 GHz i5 | 16 GB | 1:13 | 0:21 | 11.3 | 2019-11-06 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:|
 |💻 | MacBook Pro 13",<br /> Retina, Mid 2014, <br />256GB SSD| 2.6 GHz i5-4278U | 8Gb | 1:43 | 0:27 | 11.2 | 2019-11-06 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:|
 |💻 | MacBook Pro 15", <br/> Mid 2009, <br/> 240GB SSD | 2,66 GHz Intel Core 2 Duo | 8 GB | 2:38 | 0:26 | 11.4 | 2020-02-29 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | ?|
+|⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/130)| AMD Ryzen 7 1700X @ 3.75GHz | 16 GB | 0:41 | 0:06 | 11.5 | 2020-06-23 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)]
 
 Xcode 10
 -------
