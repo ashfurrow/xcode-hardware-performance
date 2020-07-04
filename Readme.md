@@ -3,14 +3,6 @@ Xcode Hardware Performance
 
 These are the results from running Xcode on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
 
-Xcode 12
-========
-
-We don't have any results yet. Maybe you have a DTK? [Maybe you could add a result, mmm](#contributing)?
-
-|🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | Xcode 12 version (including beta #) |
-|-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
-
 Xcode 11
 -------
 |🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
