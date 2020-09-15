@@ -7,8 +7,9 @@ Xcode 11
 -------
 |🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
 |-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- | ----------------- |
-|🖥 | iMac 27"<br />512GB SSD, 2020 | 3.8 GHz i7 | 8 GB | 0:33 | 0:5 | 11.7 | 2020-09-14 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) | :heavy_check_mark:|
-|🖥 | iMac 27"<br />512GB SSD, 2020 | 3.8 GHz i7 | 72 GB | 0:29 | 0:7 | 11.7 | 2020-09-14 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) | :heavy_check_mark:|
+|🖥 | iMac 27"<br />512GB SSD, 2020 | 3.8 GHz i7 | 64 GB | 0:26 | 0:07 | 11.7 | 2020-09-14 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) | :heavy_check_mark:|
+|🖥 | iMac 27"<br />512GB SSD, 2020 | 3.8 GHz i7 | 8 GB | 0:33 | 0:05 | 11.7 | 2020-09-14 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) | :heavy_check_mark:|
+|🖥 | iMac 27"<br />512GB SSD, 2020 | 3.8 GHz i7 | 72 GB | 0:29 | 0:07 | 11.7 | 2020-09-14 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) | :heavy_check_mark:|
 |⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/129)| Intel i9 9940X 4.6GHz(all cores) | 64 GB | 0:27 | 0:08 | 11.4.1 | 2020-04-16 ([commit]
 |⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/126)| AMD Ryzen 9 3950X 4.3GHz(all cores) | 32 GB | 0:21 | 0:03 | 11.4 | 2020-04-16 ([commit](https://github.com/artsy/eidolon/commit/67fd72cf1a0f97d1c24db1c78c240414e4180fbd)) | :heavy_check_mark:|
 |⌨️ | [Custom PC](https://github.com/ashfurrow/xcode-hardware-performance/pull/133)| Intel i7-10700k 5.0GHz(all cores) | 32 GB | 0:24 | 0:07 | 11.6 | 2020-07-25 | :heavy_check_mark:|
