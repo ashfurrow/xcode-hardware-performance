@@ -3,6 +3,16 @@ Xcode Hardware Performance
 
 These are the results from running Xcode on a non-trivial open source project using various Macs. The goal is to give developers a relative idea of how each computer model compares to one another. Read the [specifics](#specifications) and [contributing](#contributing) sections for more info.
 
+Xcode 12
+-------
+
+|🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash |
+|-- | -------------- | --- | --- | ---------------- | ---------------------- | ---- | ---- |
+|🖥 | MacBook Pro 13" (Early 2015) | i5-5257U (2.7 GHz) | 16 GB | 1:48 | 0:17 | 12.2 | 2020-11-20 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) |
+|🖥 | MacBook Pro 13" (Early 2015) | i5-5257U (2.7 GHz) | 16 GB | 1:32 | 0:15 | 12.2 | 2020-11-20 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
+|🖥 | Mac Mini (Late 2020) | Apple M1 | 16 GB | 0:19 | 0:04 | 12.2 | 2020-11-20 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
+
+
 Xcode 11
 -------
 |🖥 | Computer Model | CPU | RAM | Fresh Build Time | Incremental Build Time | Xcode Version | Date & Commit Hash | New Build System? |
@@ -162,7 +172,14 @@ I repeated each test a few times and took their average times.
 Contributing
 ------------
 
-It would be super-cool if we could perform the above tests on a variety of machines and consolidate the results here. You can [follow the instructions](https://github.com/artsy/eidolon#downloading-the-code) to download the code and the project dependencies, and send a pull request adding your own results. I'd super-appreciate it! :bow:
+It would be super-cool if we could perform the above tests on a variety of machines and consolidate the results here. Below are the instructions to download the code (compatible with Apple Silicon thanks to @pawelurb), and send a pull request adding your own results. I'd super-appreciate it! :bow:
+
+```sh
+git clone -b apple-silicon-compatibility https://github.com/artsy/eidolon.git
+cd eidolon
+bundle install
+bundle exec fastlane oss
+```
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by [its terms](Code%20of%20Conduct.md).
 
