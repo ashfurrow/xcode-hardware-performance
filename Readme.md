@@ -11,6 +11,7 @@ Xcode 12
 |🖥 | MacBook Pro 13" (Early 2015) | i5-5257U (2.7 GHz) | 16 GB | 1:48 | 0:17 | 12.2 | 2020-11-20 ([commit](https://github.com/artsy/eidolon/commit/071ab0fc8ca8aaa3678d7aefd9cf99c594f274ca)) |
 |🖥 | MacBook Pro 13" (Early 2015) | i5-5257U (2.7 GHz) | 16 GB | 1:32 | 0:15 | 12.2 | 2020-11-20 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 |🖥 | Mac Mini (Late 2020) | Apple M1 | 16 GB | 0:19 | 0:04 | 12.2 | 2020-11-20 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
+|🖥 | Mac Mini (2018) | i7-8700B (3.2GHz) | 32 GB | 0:40 | 0:08 | 12.2 | 2020-11-25 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 
 
 Xcode 11
