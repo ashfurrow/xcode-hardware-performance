@@ -14,6 +14,7 @@ Xcode 12
 |![](assets/mini-2018.png) | Mac Mini (2018) | i7-8700B (3.2GHz) | 32 GB | 0:40 | 0:08 | 12.2 | 2020-11-25 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 |💻 | MacBook Pro (Late 2020) | Apple M1 | 16 GB | 0:35 | 0:04 | 12.2 | 2020-11-28 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 |💻 | MacBook Pro 16", <br />Retina, 2019 | i9-9880H (2.3 GHz) | 32 GB | 0:31 | 0:07 | 12.2 | 2020-11-26 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
+|💻 | MacBook Pro 15" (Mid 2015) | i7-4770HQ (2.2 GHz) | 16 GB | 0:55 | 0:15 | 12.2 | 2020-11-26 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 
 Xcode 11
 -------
