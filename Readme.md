@@ -15,6 +15,9 @@ Xcode 12
 |💻 | MacBook Pro (Late 2020) | Apple M1 | 16 GB | 0:35 | 0:04 | 12.2 | 2020-11-28 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 |💻 | MacBook Pro 16", <br />Retina, 2019 | i9-9880H (2.3 GHz) | 32 GB | 0:31 | 0:07 | 12.2 | 2020-11-26 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
 |💻 | MacBook Pro 15" (Mid 2015) | i7-4770HQ (2.2 GHz) | 16 GB | 0:55 | 0:15 | 12.2 | 2020-11-26 ([commit](https://github.com/artsy/eidolon/commit/f77b605010719683798a49b19101f3027968ebd2)) |
+|🖥  | iMac Pro 27" (Late 2017) | 3.2 GHz 8-Core Intel Xeon W | 32 GB | 0:33 | 0:07 | 12.2 | 2020-12-07 ([commit](https://github.com/artsy/eidolon/commit/https://github.com/artsy/eidolon/commit/160767463524fb0219dc08552e9fe38023bd63b2)) |
+|💻 | MacBook Air (Late 2020) | Apple M1 | 16 GB | 0:33 | 0:06 | 12.2 | 2020-12-07 ([commit](https://github.com/artsy/eidolon/commit/https://github.com/artsy/eidolon/commit/160767463524fb0219dc08552e9fe38023bd63b2)) |
+|💻 | MacBook Air (Late 2018) | I5-8210Y (1.6 GHz) | 8 GB | 2:15 | 0:20 | 12.2 | 2020-12-07 ([commit](https://github.com/artsy/eidolon/commit/https://github.com/artsy/eidolon/commit/160767463524fb0219dc08552e9fe38023bd63b2)) |
 
 Xcode 11
 -------
