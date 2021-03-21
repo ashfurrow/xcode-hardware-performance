@@ -21,6 +21,7 @@ Xcode 12
 |💻 | MacBook Air (Late 2020) | Apple M1 | 16 GB | 0:33 | 0:06 | 12.2 | 2020-12-07 ([commit](https://github.com/artsy/eidolon/commit/160767463524fb0219dc08552e9fe38023bd63b2)) |
 |💻 | MacBook Air (Late 2018) | I5-8210Y (1.6 GHz) | 8 GB | 2:15 | 0:20 | 12.2 | 2020-12-07 ([commit](https://github.com/artsy/eidolon/commit/160767463524fb0219dc08552e9fe38023bd63b2)) |
 |🖥 | MacBook Air (Late 2020) | Apple M1 | 8 GB | 0:20 | 0:08 | 12.4 | 2021-3-13 ([commit](https://github.com/artsy/eidolon/commit/c76879a80bce4c23dd66554a3fe24a6a6a93a341)) |
+|⌨️ | Custom PC | AMD Ryzen 5 3600 3.6 GHz | 16 GB | 0.34 | 0.08 | 14.2 | 2021-3-21 |
 
 Xcode 11
 -------
