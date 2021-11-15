@@ -1,3 +1,5 @@
+:warning: This repository is deprecated, but the results will stay around for posterity. I recommend [Maxim Eremenko' XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) for comparing compile times on different Apple hardware. [See below](#repo-status) for more details. :warning:
+
 Xcode Hardware Performance
 ==========================
 
@@ -182,7 +184,9 @@ I repeated each test a few times and took their average times.
 Contributing
 ------------
 
-It would be super-cool if we could perform the above tests on a variety of machines and consolidate the results here. Below are the instructions to download the code (compatible with Apple Silicon thanks to @pawelurb), and send a pull request adding your own results. I'd super-appreciate it! :bow:
+~It would be super-cool if we could perform the above tests on a variety of machines and consolidate the results here. Below are the instructions to download the code (compatible with Apple Silicon thanks to @pawelurb), and send a pull request adding your own results. I'd super-appreciate it! :bow:~
+
+This repository is deprecated, but the results will stay around for posterity. [See below](#repo-status) for more.
 
 ```sh
 git clone -b apple-silicon-compatibility https://github.com/artsy/eidolon.git
@@ -192,6 +196,15 @@ bundle exec fastlane oss
 ```
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by [its terms](Code%20of%20Conduct.md).
+
+Repo Status
+-----------
+
+This repository was created in 2015 when I worked at [Artsy](https://artsy.net). The main project I worked on at the time ([Eidolon](https://github.com/artsy/eidolon)) was open source, making it an ideal test case for measuring Xcode compile times of real-world apps. However, [I stopped working at Artsy in 2021](https://ashfurrow.com/blog/leaving-artsy/) and Artsy is no longer maintaining Eidolon for compatibility with the latest versions of Swift, Xcode, CocoaPods, and open source dependencies.
+
+I could continue maintaining the repo for Artsy, since Eidolon remains open source, but honestly, keeping this Xcode benchmarking repo maintained is a lot of work, and a [better repository exists](https://github.com/devMEremenko/XcodeBenchmark).
+
+So at the end of 2021, I'm deprecating this repository. It was a hell of a ride. I'm grateful to Artsy for the opportunity to leverage their code for the good of the iOS developer community. And I'm most grateful to dozens of contributors who made this a valuable resource. Thank you, everyone.
 
 License
 -------
